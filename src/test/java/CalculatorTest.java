@@ -1,9 +1,9 @@
 package test.java;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 import main.java.Calculator;
 import org.junit.Test;
+import static org.junit.Assert.*;
+
 
 public class CalculatorTest {
 
